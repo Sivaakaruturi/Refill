@@ -208,7 +208,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Karuturi Siva Rama Krishna**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@Sivaakaruturi](https://github.com/Sivaakaruturi)
 
 ## 🙏 Acknowledgments
 
