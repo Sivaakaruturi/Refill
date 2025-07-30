@@ -98,10 +98,15 @@ Refill/
 - Quick action buttons
 - Summary statistics
 
+<img width="1171" height="606" alt="Screenshot 2025-07-30 at 1 13 54 PM" src="https://github.com/user-attachments/assets/e91254ce-b5e9-48a0-8273-009d4453e9ec" />
+
+
+
 ### Medicine Management
-- Complete medicine list with search
+- Complete medicine list 
 - Detailed medicine information
 - Add/edit/delete functionality
+<img width="788" height="554" alt="Screenshot 2025-07-30 at 1 18 04 PM" src="https://github.com/user-attachments/assets/f62f03e3-6e19-4e65-9e0d-3662945dbf76" />
 
 ### Refill Tracking
 - Upcoming and overdue refills
@@ -112,6 +117,7 @@ Refill/
 - Overall adherence rates
 - Medicine categories breakdown
 - Recent activity feed
+<img width="532" height="560" alt="Screenshot 2025-07-30 at 1 22 03 PM" src="https://github.com/user-attachments/assets/5e93470a-7896-475a-afea-1c784988f0a8" />
 
 ## 🎮 Usage Guide
 
